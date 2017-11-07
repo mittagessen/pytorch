@@ -304,3 +304,6 @@
 
 #include "generic/VolumetricUpSamplingTrilinear.c"
 #include "THGenerateFloatTypes.h"
+
+#include "generic/CTC.c"
+#include "THGenerateFloatTypes.h"
